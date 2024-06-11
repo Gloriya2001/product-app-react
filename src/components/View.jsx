@@ -1,16 +1,17 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 const View = () => {
     return (
         <div>
-
+<Navbar/>
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                        <h1><b>Add Product Details</b></h1>
+                      
                         <div className="row g-3">
                             
-                                <h1>Student Profile</h1>
+                                <h1>Product view</h1>
 
                                 <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
 
